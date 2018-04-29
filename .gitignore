@@ -15,10 +15,12 @@ out
 
 # gradle
 gradle
-gradlew(.bat)
+gradlew
+gradlew.bat
 build
 .gradle
 
 # other
 eclipse
 run
+*.txt

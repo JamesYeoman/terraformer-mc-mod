@@ -1,0 +1,8 @@
+[{
+	"modid": "terraformer",
+	"name": "Terraformer",
+	"description": "Allows you to define an area of terrain (kinda like you would for WorldEdit) and clear it all (as long as you have sufficient net tool usage in your inventory).",
+	"version": "0.0.0.1",
+	"mcversion": "1.12.2",
+	"authorList": ["hoodwink_dude"]
+}]
